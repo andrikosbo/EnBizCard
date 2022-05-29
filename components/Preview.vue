@@ -349,10 +349,10 @@
             Created with
             <a
               class="textColor"
-              href="https://enbizcard.vishnuraghav.com/"
+              href="https://bmbnt.link/buzz/"
               target="_blank"
               rel="noopener noreferrer"
-              >EnBizCard</a
+              >bombinate.gr - digital business card </a
             >
           </footer>
         </body>
