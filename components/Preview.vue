@@ -22,7 +22,7 @@
           <meta v-if="!PreviewMode" name="robots" content="noindex, nofollow" />
           <meta
             name="author"
-            content="EnBizCard - An Open-Source Digital Business Card Generator"
+            content="#yourdigitalbuzz - An Open-Source Digital Business Card Generator"
           />
           <meta name="url" content="https://enbizcard.vishnuraghav.com/" />
           <meta name="designer" content="Vishnu Raghav" />
@@ -352,7 +352,7 @@
               href="https://bmbnt.link/buzz/"
               target="_blank"
               rel="noopener noreferrer"
-              >bombinate.gr - digital business card </a
+              >#yourdigitalbuzz</a
             >
           </footer>
         </body>
