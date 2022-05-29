@@ -75,27 +75,7 @@
           v-html="require(`~/assets/icons/logo.svg?include`)"
           title="Bombinate.GR - Digital Business Card Generator"
         ></div>
-        <a
-          class="
-            font-extrabold
-            tracking-wide
-            leading-none
-            shrink-0
-            p-3
-            border-2
-            text-white
-            border-gray-700
-            rounded
-            hover:bg-gray-700
-            focus:bg-gray-700
-            transition-colors
-            duration-200
-          "
-          href="https://www.vishnuraghav.com/donate"
-          target="_blank"
-          rel="noreferrer"
-          >Donate</a
-        >
+       
       </div>
       <h1
         class="
