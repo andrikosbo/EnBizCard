@@ -29,21 +29,7 @@
           class="logo w-16 m-4"
           v-html="require(`~/assets/icons/logo.svg?include`)"
         ></div>
-        <button
-          class="
-            p-3
-            mx-4
-            font-extrabold
-            rounded
-            tracking-wide
-            focus:outline-none
-            select-none
-          "
-          :class="showPreview ? 'bg-gray-700' : 'bg-emerald-600'"
-          @click="!opening && togglePreview()"
-        >
-          {{ showPreview ? 'Close preview' : 'Open preview' }}
-        </button>
+       
       </div>
     </transition>
     <transition name="fade">
@@ -72,7 +58,7 @@
       <div class="flex items-start justify-between pt-8">
         <div
           class="logo w-24"
-          v-html="require(`~/assets/icons/logo2.svg?include`)"
+          v-html="require(`~/assets/icons/logo.svg?include`)"
           title="Bombinate.GR - Digital Business Card Generator"
         ></div>
        
