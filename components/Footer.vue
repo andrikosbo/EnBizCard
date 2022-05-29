@@ -16,22 +16,13 @@
       Powered ❤️ by
       <a
         class="underline text-emerald-600 font-extrabold hover:text-emerald-500 focus:text-emerald-500 transition-colors duration-200"
-        href="https://bombinate.gr/"
+        href="https://bmbnt.link/buzz/"
         target="_blank"
         rel="noopener noreferrer"
         >bombinate.gr</a
       >
     </p>
-    <p class="mt-1 mb-8 text-center text-xs text-gray-400">
-      <a
-        class="underline text-emerald-600 font-extrabold hover:text-emerald-500 focus:text-emerald-500 transition-colors duration-200"
-        href="bmbnt.link/buzz"
-        target="_blank"
-        rel="noopener noreferrer"
-        >View&nbsp;Our Cardd</a
-      >
-      | AGPLv3 License
-    </p>
+   
   </footer>
 </template>
 
