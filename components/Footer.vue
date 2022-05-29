@@ -3,7 +3,7 @@
     <div class="flex flex-col justify-center items-center">
       <div
         class="logo w-12"
-        v-html="require(`~/assets/icons/logo.svg?include`)"
+        v-html="require(`~/assets/icons/logo3.svg?include`)"
       ></div>
       <!-- <p class="font-extrabold leading-tight">
         Digital&nbsp;Business&nbsp;Card
