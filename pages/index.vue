@@ -73,7 +73,7 @@
         <div
           class="logo w-24"
           v-html="require(`~/assets/icons/logo.svg?include`)"
-          title="EnBizCard - An Open-Source Digital Business Card Generator"
+          title="Bombinate.GR - Digital Business Card Generator"
         ></div>
         <a
           class="
