@@ -29,21 +29,7 @@
           class="logo w-16 m-4"
           v-html="require(`~/assets/icons/logo3.svg?include`)"
         ></div>
-        <button
-          class="
-            p-3
-            mx-4
-            font-extrabold
-            rounded
-            tracking-wide
-            focus:outline-none
-            select-none
-          "
-          :class="showPreview ? 'bg-gray-700' : 'bg-emerald-600'"
-          @click="!opening && togglePreview()"
-        >
-          {{ showPreview ? 'Close preview' : 'Open preview' }}
-        </button>
+        
       </div>
     </transition>
     <transition name="fade">
@@ -84,36 +70,10 @@
       
      
       <div class="mt-4 flex flex-wrap items-center">
-        <button
-          class="
-            font-extrabold
-            leading-none
-            text-lg
-            tracking-wide
-            select-none
-            shrink-0
-            p-5
-            mt-2
-            mr-2
-            text-white
-            bg-emerald-600
-            rounded
-            hover:bg-emerald-500
-            focus:bg-emerald-500
-            transition-colors
-            duration-200
-            focus:outline-none
-          "
-          @click="create()"
-        >
-          New
-        </button>
+        
         
       </div>
-      <p class="mt-6">
-        Just scroll
-        
-      </p>
+     
     </div>
     <div class="md:grid md:grid-cols-2">
       <div class="px-4 mt-32">
