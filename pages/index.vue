@@ -77,17 +77,7 @@
         ></div>
        
       </div>
-      <h1
-        class="
-          text-3xl
-          md:text-5xl
-          font-extrabold
-          mt-24
-          md:mt-48 md:leading-tight
-        "
-      >
-        DBC
-      </h1>
+     
       <p class="mt-8 text-lg md:text-xl w-full md:w-3/4 text-gray-200">
         
       </p>
