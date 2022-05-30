@@ -116,32 +116,12 @@
           "
           @click="create()"
         >
-          Create your own
+          New
         </button>
-        <a
-          class="
-            font-extrabold
-            leading-none
-            text-lg
-            tracking-wide
-            shrink-0
-            p-5
-            mt-2
-            text-white
-            bg-gray-700
-            rounded
-            hover:bg-gray-600
-            focus:bg-gray-600
-            transition-colors
-            duration-200
-          "
-          href="/demo"
-          target="_blank"
-          >View demo</a
-        >
+        
       </div>
       <p class="mt-6">
-        Read the
+        Just scroll
         
       </p>
     </div>
