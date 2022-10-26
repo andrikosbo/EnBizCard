@@ -24,8 +24,8 @@
             name="author"
             content="#yourdigitalbuzz - An Open-Source Digital Business Card Generator"
           />
-          <meta name="url" content="https://enbizcard.vishnuraghav.com/" />
-          <meta name="designer" content="Vishnu Raghav" />
+          <meta name="url" content="https://fulldigital/" />
+          <meta name="designer" content="bombinate.gr" />
           <meta
             property="og:title"
             :content="`${getFullname}'s Digital Business Card`"
