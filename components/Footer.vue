@@ -13,10 +13,10 @@
       Powered ❤️ by
       <a
         class="underline text-emerald-600 font-extrabold hover:text-emerald-500 focus:text-emerald-500 transition-colors duration-200"
-        href="https://bmbnt.link/buzz/"
+        href="https://fulldigital.gr"
         target="_blank"
         rel="noopener noreferrer"
-        >bombinate.gr</a
+        >fulldigital.gr</a
       >
     </p>
    
