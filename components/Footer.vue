@@ -7,7 +7,7 @@
         <br />
         Generator
       </p> -->
-      <p class="font-extrabold text-xl mt-2 leading-tight">Bombinate.GR DBC</p>
+      <p class="font-extrabold text-xl mt-2 leading-tight">FullDigital.GR DBC</p>
     </div>
     <p class="mt-6 text-center text-gray-400">
       Powered ❤️ by
