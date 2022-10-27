@@ -1723,7 +1723,7 @@ export default {
         urls,
         key,
         note,
-        uid: `EnBizCard-${randomNumber}`,
+        uid: `Fulldigital-${randomNumber}`,
       }
     },
   },
@@ -1962,7 +1962,7 @@ export default {
           })
           let guide = new Blob(
             [
-              '<html><head><meta http-equiv="refresh" content="0; url=https://enbizcard.vishnuraghav.com/hosting-guide" /></head></html>',
+              '<html><head><meta http-equiv="refresh" content="0; url=https://fulldigital.gr" /></head></html>',
             ],
             {
               type: 'text/html',
