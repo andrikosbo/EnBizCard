@@ -22,10 +22,10 @@
           <meta v-if="!PreviewMode" name="robots" content="noindex, nofollow" />
           <meta
             name="author"
-            content="#yourdigitalbuzz - An Open-Source Digital Business Card Generator"
+            content="fulldigital.gr"
           />
           <meta name="url" content="https://fulldigital/" />
-          <meta name="designer" content="bombinate.gr" />
+          <meta name="designer" content="fulldigital.gr" />
           <meta
             property="og:title"
             :content="`${getFullname}'s Digital Business Card`"
@@ -346,13 +346,13 @@
             :style="{ backgroundColor: `${colors.mainBg.color}` }"
             class="textColor"
           >
-            Created with
+            Created by
             <a
               class="textColor"
-              href="https://bmbnt.link/buzz/"
+              href="https://fulldigital.gr"
               target="_blank"
               rel="noopener noreferrer"
-              >#yourdigitalbuzz</a
+              >fullditigal.gr</a
             >
           </footer>
         </body>
