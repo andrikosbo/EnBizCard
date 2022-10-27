@@ -36,8 +36,7 @@
         >
         to get your digital business card online.
         <br /><br />
-        If you find this service valuable to you or your business, please
-        consider donating.
+        
         <br />
       </p>
     </div>
