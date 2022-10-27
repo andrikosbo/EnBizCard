@@ -352,7 +352,7 @@
               href="https://fulldigital.gr"
               target="_blank"
               rel="noopener noreferrer"
-              >fullditigal.gr</a
+              >fulldigital.gr</a
             >
           </footer>
         </body>
