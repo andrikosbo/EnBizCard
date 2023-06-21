@@ -72,7 +72,7 @@
       <div class="flex items-start justify-between pt-8">
         <div
           class="logo w-24"
-          v-html="require(`~/assets/icons/logo3.png?include`)"
+          v-html="require(`~/assets/icons/logo.svg?include`)"
           title="No title needed"
         ></div>
         <a
