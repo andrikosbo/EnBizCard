@@ -27,7 +27,7 @@
       >
         <div
           class="logo w-16 m-4"
-          v-html="require(`~/assets/icons/logo.svg?include`)"
+          v-html="require(`~/assets/icons/logo3.svg?include`)"
         ></div>
         <button
           class="
@@ -72,8 +72,8 @@
       <div class="flex items-start justify-between pt-8">
         <div
           class="logo w-24"
-          v-html="require(`~/assets/icons/logo.svg?include`)"
-          title="EnBizCard - An Open-Source Digital Business Card Generator"
+          v-html="require(`~/assets/icons/logo3.svg?include`)"
+          title="No title needed"
         ></div>
         <a
           class="
@@ -91,97 +91,15 @@
             transition-colors
             duration-200
           "
-          href="https://www.vishnuraghav.com/donate"
+          href="https://boglou.com"
           target="_blank"
           rel="noreferrer"
-          >Donate</a
+          >My Profile</a
         >
       </div>
-      <h1
-        class="
-          text-3xl
-          md:text-5xl
-          font-extrabold
-          mt-24
-          md:mt-48 md:leading-tight
-        "
-      >
-        Why Pay When Your Website Can Host Your Digital Business Cards for Free!
-      </h1>
-      <p class="mt-8 text-lg md:text-xl w-full md:w-3/4 text-gray-200">
-        EnBizCard helps you create beautiful, responsive HTML&#8209;based
-        digital business cards that can be hosted on your website.
-      </p>
-      <ul class="mt-4 text-gray-400">
-        <li>-&ensp;No sign-up required</li>
-        <li>-&ensp;100% free and open-source</li>
-        <li>-&ensp;No user tracking and data collection</li>
-        <li>-&ensp;Works offline</li>
-      </ul>
-      <div class="mt-4 flex flex-wrap items-center">
-        <button
-          class="
-            font-extrabold
-            leading-none
-            text-lg
-            tracking-wide
-            select-none
-            shrink-0
-            p-5
-            mt-2
-            mr-2
-            text-white
-            bg-emerald-600
-            rounded
-            hover:bg-emerald-500
-            focus:bg-emerald-500
-            transition-colors
-            duration-200
-            focus:outline-none
-          "
-          @click="create()"
-        >
-          Create your own
-        </button>
-        <a
-          class="
-            font-extrabold
-            leading-none
-            text-lg
-            tracking-wide
-            shrink-0
-            p-5
-            mt-2
-            text-white
-            bg-gray-700
-            rounded
-            hover:bg-gray-600
-            focus:bg-gray-600
-            transition-colors
-            duration-200
-          "
-          href="/demo"
-          target="_blank"
-          >View demo</a
-        >
-      </div>
-      <p class="mt-6">
-        Read the
-        <NuxtLink
-          to="/hosting-guide"
-          class="
-            cursor-pointer
-            underline
-            font-extrabold
-            text-emerald-600
-            hover:text-emerald-500
-            focus:text-emerald-500
-            transition-colors
-            duration-200
-          "
-          >Hosting Guide</NuxtLink
-        >
-      </p>
+      
+      
+      
     </div>
     <div class="md:grid md:grid-cols-2">
       <div class="px-4 mt-32">
