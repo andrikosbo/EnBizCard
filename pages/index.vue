@@ -27,7 +27,7 @@
       >
         <div
           class="logo w-16 m-4"
-          v-html="require(`~/assets/icons/logo2.png?include`)"
+          v-html="require(`~/assets/icons/logo3.png?include`)"
         ></div>
         <button
           class="
