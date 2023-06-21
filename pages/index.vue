@@ -73,7 +73,7 @@
         <div
           class="logo w-24"
           v-html="require(`~/assets/icons/logo.svg?include`)"
-          title="Editor"
+          title="No title needed"
         ></div>
         <a
           class="
@@ -91,33 +91,15 @@
             transition-colors
             duration-200
           "
-          href="https://www.bmbnt.co.uk"
+          href="https://boglou.com"
           target="_blank"
           rel="noreferrer"
           >Donate</a
         >
       </div>
-    
-        
-      </div>
-      <p class="mt-6">
-        Read the
-        <NuxtLink
-          to="/hosting-guide"
-          class="
-            cursor-pointer
-            underline
-            font-extrabold
-            text-emerald-600
-            hover:text-emerald-500
-            focus:text-emerald-500
-            transition-colors
-            duration-200
-          "
-          >Hosting Guide</NuxtLink
-        >
-      </p>
-    </div>
+      
+      
+      
     <div class="md:grid md:grid-cols-2">
       <div class="px-4 mt-32">
         <div ref="create" id="step-1" class="pt-8">
